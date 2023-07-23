@@ -1,8 +1,6 @@
-@apply {
-  .popins {
-    font-family: "Poppins", sans-serif;
-  }
-  
+
+.popins {
+  font-family: "Poppins", sans-serif;
 }
 .btn-color{
   background-color: #E76F51;
