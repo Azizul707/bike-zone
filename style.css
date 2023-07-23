@@ -1,0 +1,13 @@
+@apply {
+  .popins {
+    font-family: "Poppins", sans-serif;
+  }
+  
+}
+.btn-color{
+  background-color: #E76F51;
+}
+
+.bg-new{
+  background: rgba(231, 111, 81, 0.10);
+}
